@@ -1,14 +1,12 @@
 <head>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
-
-    <title>U2BMosaico</title>
+        <title>U2BMosaico</title>
 </head>
 
 
 <body>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <style>
         .parent {
             display: flex;
@@ -39,9 +37,6 @@
     </div>
     <div class="parent">
     </div>
-
-    </div>
-
 
     <script>
         function novaJanela() {
